@@ -1,0 +1,10 @@
+/home/ivan/solana/multisig_cur/multisig_wallet/target/sbf-solana-solana/release/deps/libsolana_frozen_abi-0012bfeff3461d16.rmeta: /home/ivan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.23/src/lib.rs /home/ivan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.23/src/abi_digester.rs /home/ivan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.23/src/abi_example.rs /home/ivan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.23/src/hash.rs
+
+/home/ivan/solana/multisig_cur/multisig_wallet/target/sbf-solana-solana/release/deps/libsolana_frozen_abi-0012bfeff3461d16.rlib: /home/ivan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.23/src/lib.rs /home/ivan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.23/src/abi_digester.rs /home/ivan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.23/src/abi_example.rs /home/ivan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.23/src/hash.rs
+
+/home/ivan/solana/multisig_cur/multisig_wallet/target/sbf-solana-solana/release/deps/solana_frozen_abi-0012bfeff3461d16.d: /home/ivan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.23/src/lib.rs /home/ivan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.23/src/abi_digester.rs /home/ivan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.23/src/abi_example.rs /home/ivan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.23/src/hash.rs
+
+/home/ivan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.23/src/lib.rs:
+/home/ivan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.23/src/abi_digester.rs:
+/home/ivan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.23/src/abi_example.rs:
+/home/ivan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.23/src/hash.rs:
