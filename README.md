@@ -1,4 +1,4 @@
-# Multisig-Wallet-Programs# Multisig Wallet on Solana
+# Multisig Wallet on Solana
 
 This project implements a Multisig Wallet on Solana using the Anchor framework. A multisig wallet requires multiple signatures from predefined owners to approve and execute transactions, providing an additional layer of security.
 
@@ -41,22 +41,22 @@ pub fn initialize_multisig(ctx: Context<InitializeMultisig>, name: String, owner
 ```rust
 pub fn create_transaction(ctx: Context<CreateTransaction>, amount: u64, recipient: Pubkey) -> Result<()>
 ```
--This function allows an owner to create a transaction
+- This function allows an owner to create a transaction
 
 ```rust
 pub fn approve_transaction(ctx: Context<SignTransaction>, id: u32) -> Result<()>
 ```
--Allows an owner to approve a transaction and executes the transaction if the desired threshold is reached
+- Allows an owner to approve a transaction and executes the transaction if the desired threshold is reached
 
 ```rust
 pub fn revoke_transaction(ctx: Context<SignTransaction>, id: u32) -> Result<()>
 ```
--Allows an owner to revoke their approval of a transaction
+- Allows an owner to revoke their approval of a transaction
 
 ``` rust
 pub fn fund_multisig(ctx: Context<FundMultisig>, amount: u64) -> Result<()>
 ```
--Allows any signer to transfer SOL into the multisig wallet
+- Allows any signer to transfer SOL into the multisig wallet
 
 
 
